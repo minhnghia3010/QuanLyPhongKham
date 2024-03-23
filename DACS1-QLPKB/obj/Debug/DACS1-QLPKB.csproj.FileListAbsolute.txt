@@ -1,0 +1,115 @@
+C:\Đồ Án\DoAnCoSo1\DACS1-QLPKB\bin\Debug\DACS1-QLPKB.exe.config
+C:\Đồ Án\DoAnCoSo1\DACS1-QLPKB\bin\Debug\DACS1-QLPKB.exe
+C:\Đồ Án\DoAnCoSo1\DACS1-QLPKB\bin\Debug\DACS1-QLPKB.pdb
+C:\Đồ Án\DoAnCoSo1\DACS1-QLPKB\obj\Debug\DACS1-QLPKB.csproj.AssemblyReference.cache
+C:\Đồ Án\DoAnCoSo1\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.DangNhap.resources
+C:\Đồ Án\DoAnCoSo1\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.Properties.Resources.resources
+C:\Đồ Án\DoAnCoSo1\DACS1-QLPKB\obj\Debug\DACS1-QLPKB.csproj.GenerateResource.cache
+C:\Đồ Án\DoAnCoSo1\DACS1-QLPKB\obj\Debug\DACS1-QLPKB.csproj.CoreCompileInputs.cache
+C:\Đồ Án\DoAnCoSo1\DACS1-QLPKB\obj\Debug\DACS1-QLPKB.exe
+C:\Đồ Án\DoAnCoSo1\DACS1-QLPKB\obj\Debug\DACS1-QLPKB.pdb
+C:\Đồ Án\DoAnCoSo1\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.DoiMatKhau.resources
+C:\Đồ Án\DoAnCoSo1\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ThemBS.resources
+C:\Đồ Án\DoAnCoSo1\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ThongTinBS.resources
+C:\Đồ Án\DoAnCoSo1\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ThemNV.resources
+C:\Đồ Án\DoAnCoSo1\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ThongTinNV.resources
+C:\Đồ Án\DoAnCoSo1\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ThemThuoc.resources
+C:\Đồ Án\DoAnCoSo1\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ThongTinDT.resources
+C:\Đồ Án\DoAnCoSo1\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ThongTinBenh.resources
+C:\Đồ Án\DoAnCoSo1\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ThemBN.resources
+C:\Đồ Án\DoAnCoSo1\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ThongTinBenhNhan.resources
+C:\Đồ Án\DoAnCoSo1\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.SettingHeThong.resources
+C:\Đồ Án\DoAnCoSo1\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.KhamBenh.resources
+C:\Đồ Án\DoAnCoSo1\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.KeThuoc.resources
+C:\Đồ Án\DoAnCoSo1\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.DSToa.resources
+C:\Đồ Án\DoAnCoSo1\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ChiTietBenhAn.resources
+C:\Đồ Án\DoAnCoSo1\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ChiTietHoaDon.resources
+C:\Đồ Án\DoAnCoSo1\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.FormMain.resources
+C:\Đồ Án\DoAnCoSo1\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ThongKeNgay.resources
+D:\DOANCOSO1\DACS1-QLPKB\bin\Debug\DACS1-QLPKB.exe.config
+D:\DOANCOSO1\DACS1-QLPKB\bin\Debug\DACS1-QLPKB.exe
+D:\DOANCOSO1\DACS1-QLPKB\bin\Debug\DACS1-QLPKB.pdb
+D:\DOANCOSO1\DACS1-QLPKB\obj\Debug\DACS1-QLPKB.csproj.AssemblyReference.cache
+D:\DOANCOSO1\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ChiTietBenhAn.resources
+D:\DOANCOSO1\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.DangNhap.resources
+D:\DOANCOSO1\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.DoiMatKhau.resources
+D:\DOANCOSO1\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.DSToa.resources
+D:\DOANCOSO1\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.FormMain.resources
+D:\DOANCOSO1\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.KeThuoc.resources
+D:\DOANCOSO1\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.KhamBenh.resources
+D:\DOANCOSO1\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.Properties.Resources.resources
+D:\DOANCOSO1\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.SettingHeThong.resources
+D:\DOANCOSO1\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ThemBN.resources
+D:\DOANCOSO1\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ThemBS.resources
+D:\DOANCOSO1\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ThemNV.resources
+D:\DOANCOSO1\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ThemThuoc.resources
+D:\DOANCOSO1\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ThongKeNgay.resources
+D:\DOANCOSO1\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ThongTinBenh.resources
+D:\DOANCOSO1\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ThongTinBenhNhan.resources
+D:\DOANCOSO1\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ThongTinBS.resources
+D:\DOANCOSO1\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ThongTinDT.resources
+D:\DOANCOSO1\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ThongTinNV.resources
+D:\DOANCOSO1\DACS1-QLPKB\obj\Debug\DACS1-QLPKB.csproj.GenerateResource.cache
+D:\DOANCOSO1\DACS1-QLPKB\obj\Debug\DACS1-QLPKB.csproj.CoreCompileInputs.cache
+D:\DOANCOSO1\DACS1-QLPKB\obj\Debug\DACS1-QLPKB.exe
+D:\DOANCOSO1\DACS1-QLPKB\obj\Debug\DACS1-QLPKB.pdb
+D:\DOANCOSO1\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.DSHoaDon.resources
+D:\DOANCOSO1\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ChiTietHoaDon.resources
+D:\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\bin\Debug\DACS1-QLPKB.exe.config
+D:\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\bin\Debug\DACS1-QLPKB.exe
+D:\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\bin\Debug\DACS1-QLPKB.pdb
+D:\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1-QLPKB.csproj.AssemblyReference.cache
+D:\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ChiTietBenhAn.resources
+D:\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ChiTietHoaDon.resources
+D:\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.DSHoaDon.resources
+D:\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.DangNhap.resources
+D:\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.DoiMatKhau.resources
+D:\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.DSToa.resources
+D:\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.FormMain.resources
+D:\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.KeThuoc.resources
+D:\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.KhamBenh.resources
+D:\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.Properties.Resources.resources
+D:\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.SettingHeThong.resources
+D:\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ThemBN.resources
+D:\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ThemBS.resources
+D:\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ThemNV.resources
+D:\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ThemThuoc.resources
+D:\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ThongKeNgay.resources
+D:\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ThongTinBenh.resources
+D:\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ThongTinBenhNhan.resources
+D:\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ThongTinBS.resources
+D:\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ThongTinDT.resources
+D:\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ThongTinNV.resources
+D:\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1-QLPKB.csproj.GenerateResource.cache
+D:\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1-QLPKB.csproj.CoreCompileInputs.cache
+D:\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1-QLPKB.exe
+D:\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1-QLPKB.pdb
+C:\Users\Admin\OneDrive\Documents\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\bin\Debug\DACS1-QLPKB.exe.config
+C:\Users\Admin\OneDrive\Documents\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\bin\Debug\DACS1-QLPKB.exe
+C:\Users\Admin\OneDrive\Documents\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\bin\Debug\DACS1-QLPKB.pdb
+C:\Users\Admin\OneDrive\Documents\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1-QLPKB.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Documents\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ChiTietBenhAn.resources
+C:\Users\Admin\OneDrive\Documents\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ChiTietHoaDon.resources
+C:\Users\Admin\OneDrive\Documents\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.DSHoaDon.resources
+C:\Users\Admin\OneDrive\Documents\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.DangNhap.resources
+C:\Users\Admin\OneDrive\Documents\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.DoiMatKhau.resources
+C:\Users\Admin\OneDrive\Documents\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.DSToa.resources
+C:\Users\Admin\OneDrive\Documents\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.FormMain.resources
+C:\Users\Admin\OneDrive\Documents\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.KeThuoc.resources
+C:\Users\Admin\OneDrive\Documents\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.KhamBenh.resources
+C:\Users\Admin\OneDrive\Documents\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Documents\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.SettingHeThong.resources
+C:\Users\Admin\OneDrive\Documents\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ThemBN.resources
+C:\Users\Admin\OneDrive\Documents\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ThemBS.resources
+C:\Users\Admin\OneDrive\Documents\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ThemNV.resources
+C:\Users\Admin\OneDrive\Documents\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ThemThuoc.resources
+C:\Users\Admin\OneDrive\Documents\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ThongKeNgay.resources
+C:\Users\Admin\OneDrive\Documents\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ThongTinBenh.resources
+C:\Users\Admin\OneDrive\Documents\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ThongTinBenhNhan.resources
+C:\Users\Admin\OneDrive\Documents\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ThongTinBS.resources
+C:\Users\Admin\OneDrive\Documents\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ThongTinDT.resources
+C:\Users\Admin\OneDrive\Documents\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1_QLPKB.ThongTinNV.resources
+C:\Users\Admin\OneDrive\Documents\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1-QLPKB.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Documents\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1-QLPKB.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1-QLPKB.exe
+C:\Users\Admin\OneDrive\Documents\DACS1_BuiThanhTy_VoMinhNghia\DACS1-QLPKB\obj\Debug\DACS1-QLPKB.pdb

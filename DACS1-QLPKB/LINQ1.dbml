@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="DoAnQLPK" Class="LINQ1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=MSI;Initial Catalog=DoAnQLPK;Integrated Security=True" SettingsObjectName="DACS1_QLPKB.Properties.Settings" SettingsPropertyName="DoAnQLPKConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.BacSi" Member="BacSis">
+    <Type Name="BacSi">
+      <Column Name="IDbs" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Tenbs" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="SDTbs" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Diachibs" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Taikhoan" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="MatKhau" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="BacSi_DanhSachBenhNhan" Member="DanhSachBenhNhans" ThisKey="IDbs" OtherKey="IDbs" Type="DanhSachBenhNhan" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Benh" Member="Benhs">
+    <Type Name="Benh">
+      <Column Name="IDbenh" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Tenbenh" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="Benh_DanhSachBenhNhan" Member="DanhSachBenhNhans" ThisKey="IDbenh" OtherKey="IDbenh" Type="DanhSachBenhNhan" />
+    </Type>
+  </Table>
+  <Table Name="dbo.BenhAn" Member="BenhAns">
+    <Type Name="BenhAn">
+      <Column Name="IDban" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="IDtoa" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Tenbn" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="SDTbn" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Benh" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="ToaThuoc_BenhAn" Member="ToaThuoc" ThisKey="IDtoa" OtherKey="IDtoa" Type="ToaThuoc" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.BenhNhan" Member="BenhNhans">
+    <Type Name="BenhNhan">
+      <Column Name="IDbn" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Tenbn" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="SDTbn" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Diachibn" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Gioitinh" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Trieuchung" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="IDnv" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="BenhNhan_DanhSachBenhNhan" Member="DanhSachBenhNhans" ThisKey="IDbn" OtherKey="IDbn" Type="DanhSachBenhNhan" />
+      <Association Name="NhanVien_BenhNhan" Member="NhanVien" ThisKey="IDnv" OtherKey="IDnv" Type="NhanVien" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.DanhSachBenhNhan" Member="DanhSachBenhNhans">
+    <Type Name="DanhSachBenhNhan">
+      <Column Name="IDdsbn" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="IDbn" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Tenbn" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="SDTbn" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Benh" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Trieuchung" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="BSkham" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Tinhtrang" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="IDbenh" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="IDbs" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="DanhSachBenhNhan_ToaThuoc" Member="ToaThuocs" ThisKey="IDdsbn" OtherKey="IDdsbn" Type="ToaThuoc" />
+      <Association Name="BacSi_DanhSachBenhNhan" Member="BacSi" ThisKey="IDbs" OtherKey="IDbs" Type="BacSi" IsForeignKey="true" />
+      <Association Name="Benh_DanhSachBenhNhan" Member="Benh1" ThisKey="IDbenh" OtherKey="IDbenh" Type="Benh" IsForeignKey="true" />
+      <Association Name="BenhNhan_DanhSachBenhNhan" Member="BenhNhan" ThisKey="IDbn" OtherKey="IDbn" Type="BenhNhan" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.HeThong" Member="HeThongs">
+    <Type Name="HeThong">
+      <Column Name="Tenht" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="SDT" Type="System.String" DbType="Char(10)" CanBeNull="true" />
+      <Column Name="Diachi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="DiachiEmail" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Giolam" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.HoaDon" Member="HoaDons">
+    <Type Name="HoaDon">
+      <Column Name="IDhd" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="IDtoa" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Tenbn" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="SDTbn" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="BSkham" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Tongtien" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Ngaykham" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Association Name="ToaThuoc_HoaDon" Member="ToaThuoc" ThisKey="IDtoa" OtherKey="IDtoa" Type="ToaThuoc" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.NhanVien" Member="NhanViens">
+    <Type Name="NhanVien">
+      <Column Name="IDnv" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Tennv" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="SDTnv" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Diachinv" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Luong" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="NhanVien_BenhNhan" Member="BenhNhans" ThisKey="IDnv" OtherKey="IDnv" Type="BenhNhan" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Thuoc" Member="Thuocs">
+    <Type Name="Thuoc">
+      <Column Name="IDthuoc" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Tenthuoc" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Soluong" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Gia" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Chucnang" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="Thuoc_ThuocBenhNhan" Member="ThuocBenhNhans" ThisKey="IDthuoc" OtherKey="IDthuoc" Type="ThuocBenhNhan" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ThuocBenhNhan" Member="ThuocBenhNhans">
+    <Type Name="ThuocBenhNhan">
+      <Column Name="Tenthuoc" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Soluong" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Gia" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="IDthuoc" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="IDtoa" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Association Name="Thuoc_ThuocBenhNhan" Member="Thuoc" ThisKey="IDthuoc" OtherKey="IDthuoc" Type="Thuoc" IsForeignKey="true" />
+      <Association Name="ToaThuoc_ThuocBenhNhan" Member="ToaThuoc" ThisKey="IDtoa" OtherKey="IDtoa" Type="ToaThuoc" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ToaThuoc" Member="ToaThuocs">
+    <Type Name="ToaThuoc">
+      <Column Name="IDtoa" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Tenbn" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="SDTbn" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Benh" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="BSkham" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="IDdsbn" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Thanhtoan" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Ngaykham" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Association Name="ToaThuoc_BenhAn" Member="BenhAns" ThisKey="IDtoa" OtherKey="IDtoa" Type="BenhAn" />
+      <Association Name="ToaThuoc_HoaDon" Member="HoaDons" ThisKey="IDtoa" OtherKey="IDtoa" Type="HoaDon" />
+      <Association Name="ToaThuoc_ThuocBenhNhan" Member="ThuocBenhNhans" ThisKey="IDtoa" OtherKey="IDtoa" Type="ThuocBenhNhan" />
+      <Association Name="DanhSachBenhNhan_ToaThuoc" Member="DanhSachBenhNhan" ThisKey="IDdsbn" OtherKey="IDdsbn" Type="DanhSachBenhNhan" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

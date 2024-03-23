@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DACS1-QLPKB", "DACS1-QLPKB.csproj", "{EB316307-A455-46F0-8010-D6112AEF39AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB316307-A455-46F0-8010-D6112AEF39AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB316307-A455-46F0-8010-D6112AEF39AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB316307-A455-46F0-8010-D6112AEF39AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB316307-A455-46F0-8010-D6112AEF39AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AEB01DE-DB0D-4EC5-9ED7-2D74D668A58F}
+	EndGlobalSection
+EndGlobal
